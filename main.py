@@ -10,7 +10,7 @@ API = 'db53663bae2e3b33d925fcb7279e77a2'
 bot = telebot.TeleBot('')
 user_data={}
 
-# ==== ДОБАВЬ СЮДА СВОИ ГИФКИ, порядок должен совпадать с FACTS ====
+
 GIFS = [
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29paWhiajY3N29tNzdzbmtqMjU2ZXljNTFoeDhiaHprcHo3ZWo4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9tx0gy37p7oXu/giphy.gif", #change
     "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29paWhiajY3N29tNzdzbmtqMjU2ZXljNTFoeDhiaHprcHo3ZWo4bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPtjElfqwMOTbH2/giphy.gif", #change
@@ -29,7 +29,7 @@ GIFS = [
     "https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif?cid=ecf05e474xc30tdvkk217rs46fk0fq7itfkh7aagyzda8ch7&ep=v1_gifs_search&rid=giphy.gif&ct=g", #change
     "https://media.giphy.com/media/Tpkr2CSADfZwJUwTlD/giphy.gif?cid=ecf05e474ha9rtxful9cazzuvgl25bh8lxamtaz0gj8ohvly&ep=v1_gifs_search&rid=giphy.gif&ct=g", #change 
 ]
-# ==== КОНЕЦ ДОБАВЛЕНИЯ ====
+
 
 FACTS = [
     "🐕 **Собаки-космонавты Белка и Стрелка** (1960) стали первыми, кто вернулся из орбитального полёта живым. Стрелка позже родила здоровых щенков!", #yet
