@@ -7,7 +7,7 @@ import threading
 import time
 
 API = 'db53663bae2e3b33d925fcb7279e77a2'
-bot = telebot.TeleBot('7649584865:AAHMm0zIKXiODKCGu-jJ3fzZaJGCu6Fm2Jg')
+bot = telebot.TeleBot('')
 user_data={}
 
 # ==== ДОБАВЬ СЮДА СВОИ ГИФКИ, порядок должен совпадать с FACTS ====
